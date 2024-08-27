@@ -1,0 +1,11 @@
+Sliding Window Algorithm :
+The sliding window is a data structure technique 
+that transforms two nested loops into a single loop within an array or list.
+Learn more with examples. [https://builtin.com/data-science/sliding-window-algorithm]
+
+Sliding Window problems are problems in which a fixed or variable-size window is 
+moved through a data structure, typically an array or string, to solve problems 
+efficiently based on continuous subsets of elements. 
+
+This technique is used when we need to find subarrays or substrings according 
+to a given set of conditions. [Geeksforgeeks].
